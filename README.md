@@ -1,2 +1,2 @@
 # Metaheuristica
-Prácticas de metahuristica de la universidad de Granada 2020
+Prácticas de metahurística de la universidad de Granada 2020
